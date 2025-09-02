@@ -1,20 +1,20 @@
 {
-    "sourceName": "UASERIAL",
-    "iconUrl": "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/uaserial/icon.png",
-    "author": {
-        "name": "ibro",
-        "icon": "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/profile.jpg",
-        "url": "https://github.com/xibrox"
-    },
-    "version": "2.1.0",
-    "language": "Ukrainian",
-    "streamType": "HLS",
-    "quality": "1080p",
-    "baseUrl": "https://uaserial.me/",
-    "searchBaseUrl": "https://uaserial.me/search?query=%s",
-    "scriptUrl": "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/uaserial/uaserial.sora",
-    "type": "anime/shows/movies",
-    "asyncJS": true,
-    "encrypted": true,
-    "softsub": true
+  "sourceName": "UASERIAL",
+  "iconUrl": "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/uaserial/icon.png",
+  "author": {
+    "name": "ibro",
+    "icon": "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/profile.jpg",
+    "url": "https://github.com/xibrox"
+  },
+  "version": "2.1.0",
+  "language": "Ukrainian",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "baseUrl": "https://uaserial.me/",
+  "searchBaseUrl": "https://uaserial.me/search?query=%s",
+  "scriptUrl": "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/uaserial/uaserial.js",
+  "type": "anime/shows/movies",
+  "asyncJS": true,
+  "encrypted": false,
+  "softsub": true
 }
